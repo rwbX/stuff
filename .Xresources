@@ -1,0 +1,36 @@
+*Rxvt*scrollBar:        false
+*Rxvt*secondaryscroll:  true
+*Rxvt*matcher.button:   1
+*Rxvt*cursorBlink:      false
+
+*Rxvt*cursorColor:  #ffffff
+
+*Rxvt*transparent:     true 
+*Rxvt*shading: 12	
+*Rxvt*geometry: 100xr39
+*Rxvt*fading: 30
+
+*Rxvt*allow_bold:       true
+
+Xft*dpi:                96
+Xft*antialias:          true
+Xft*hinting:            none
+Xft.autohint:           0
+Xft.antialias:          1
+Xft.hinting:            true
+Xft.hintstyle:          hintfull
+Xft.dpi:                96
+Xft.rgba:               rgb
+Xft.lcdfilter:          lcddefault
+
+*Rxvt*dynamicColors:    on
+*Rxvt*depth:            24
+
+*Rxvt*mapAlert:         true
+*Rxvt*visualBell:       true
+*Rxvt*URgentOnBell:     true
+
+Rxvt*font:                     xft:Envy Code R-7.3     
+Urxvt.font:                    -envy-code-r-7.3
+
+#include "/home/z/c/miami"
